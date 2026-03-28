@@ -1,0 +1,9 @@
+[submodule "platform"]
+	path = platform
+	url = https://github.com/lakmal-yapa-22/smart-clinic-platform.git
+[submodule "service"]
+	path = service
+	url = https://github.com/lakmal-yapa-22/smart-clinic-services.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/lakmal-yapa-22/smart-clinic-webapp.git
