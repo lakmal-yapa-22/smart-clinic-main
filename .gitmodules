@@ -7,3 +7,6 @@
 [submodule "webapp"]
 	path = webapp
 	url = https://github.com/lakmal-yapa-22/smart-clinic-webapp.git
+[submodule "configurations"]
+	path = configurations
+	url = https://github.com/lakmal-yapa-22/smart-clinic-configurations.git
